@@ -75,3 +75,45 @@ refuerzo.
 
 ![13](https://user-images.githubusercontent.com/78366593/108509277-54154e80-72bd-11eb-803d-192d6c48b50f.png)
 
+# Tarea 5. Refuerzo de Github.
+
+1. Crear rama
+a. Crear rama v.02
+
+![1 a](https://user-images.githubusercontent.com/78366593/108877073-2868d000-75ff-11eb-8583-4508ef6fbf3f.png)
+
+b. Posicionar la carpeta de trabajo en la rama v.02
+
+![1 b](https://user-images.githubusercontent.com/78366593/108877236-54845100-75ff-11eb-9337-73ff0a7e79eb.png)
+
+2. Añadir el fichero 2.txt en la rama v.02
+
+![2](https://user-images.githubusercontent.com/78366593/108877474-8eedee00-75ff-11eb-87ad-917ccb92065e.png)
+
+3. Crear rama remota. Sube los cambios (incluida la rama) al repositorio remoto.
+
+![3 1](https://user-images.githubusercontent.com/78366593/108877982-0f145380-7600-11eb-9d7c-57d6ee99ed2f.png)
+
+![3 2](https://user-images.githubusercontent.com/78366593/108878372-7cc07f80-7600-11eb-91a8-b18d5a58cf48.png)
+
+4. Merge directo.
+a. Posicionarse en la rama master.
+
+![4 a](https://user-images.githubusercontent.com/78366593/108880839-f3f71300-7602-11eb-9e39-b4cd80be6dad.png)
+
+b. Hacer un merge de la rama v0.2 en la rama master.
+
+![4 b](https://user-images.githubusercontent.com/78366593/108880930-11c47800-7603-11eb-9eee-97d6757a375a.png)
+   
+5. Merge con conflicto. 
+a. En la rama master poner “Hola” en el fichero 1.txt y hacer commit.
+
+![5 a](https://user-images.githubusercontent.com/78366593/108881193-58b26d80-7603-11eb-9a01-0570461b75c3.png)
+
+b. Posicionarse en la rama v0.2 y poner “Adios” en el fichero “1.txt” y hacer commit.
+
+![5 b](https://user-images.githubusercontent.com/78366593/108881893-18072400-7604-11eb-8438-21a761183e10.png)
+
+c. Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2.
+
+![5 c](https://user-images.githubusercontent.com/78366593/108881980-2ead7b00-7604-11eb-97b7-0ee91b827bb1.png)
