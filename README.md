@@ -159,7 +159,19 @@ b. Borrar la rama v0.2
 
 11. Crea equipos
 
-a, b y c.
+a. Crear dos equipos en la oganización, uno llamado Administradores y otro Colaboradores.
+
+![Administradores](https://user-images.githubusercontent.com/78366593/109038460-0a1cd600-76cc-11eb-8a51-c91de55dc157.png)
+
+![colaboradores](https://user-images.githubusercontent.com/78366593/109038440-0426f500-76cc-11eb-9ce0-f2a90bb4d266.png)
+ 
+b. Meter a github.com/antvazcar y a 2 de vuestros compañeros en Administradores.
+
+![Administradores2](https://user-images.githubusercontent.com/78366593/109038547-202a9680-76cc-11eb-8e61-37640f0b5af6.png)
+
+c. Meter a github.com/antvazcar y a 2 de vuestros compañeros en Colaboradores.
+
+![colaboradores2](https://user-images.githubusercontent.com/78366593/109038525-1b65e280-76cc-11eb-9528-048c544dcacb.png)
 
 ![11 a](https://user-images.githubusercontent.com/78366593/108919173-da6dbf80-7632-11eb-8a70-e3bd19700fc6.png)
 
@@ -173,4 +185,38 @@ He colocado el enlace en la descripción del repositorio.
 
 ![12 4](https://user-images.githubusercontent.com/78366593/108919842-00e02a80-7634-11eb-966b-b159a07ac0c1.png)
 
+13. Crear Pull-requests.
 
+a. Hacer 2 forks de 2 repositorios de dos organizaciones.
+
+![fork](https://user-images.githubusercontent.com/78366593/109040662-74367a80-76ce-11eb-961f-70cb8a47ec27.png)
+
+b. Crearos una rama en cada fork.
+
+![13 b a](https://user-images.githubusercontent.com/78366593/109041144-050d5600-76cf-11eb-8c75-c1e32c5dff1e.png)
+
+c. En cada rama modificar el fichero index.html añadiendo vuestro nombre completo.
+
+![13 b b](https://user-images.githubusercontent.com/78366593/109041517-6503fc80-76cf-11eb-92f1-8dde8bc98ced.png)
+
+d. Con cada rama hacer un pull-request.
+
+![13 d J](https://user-images.githubusercontent.com/78366593/109041700-9da3d600-76cf-11eb-9bfe-713e0e3be8bf.png)
+
+14. Gestión de pull-requests.
+
+a. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+
+![14 a](https://user-images.githubusercontent.com/78366593/109041944-e491cb80-76cf-11eb-8b84-4b004bb0d303.png)
+
+b. Establece un chat con uno de los pull.
+
+![chat pull](https://user-images.githubusercontent.com/78366593/109042722-d0020300-76d0-11eb-9c52-520430f7e998.png)
+
+c. Rechaza alguna petición que hayas tenido un chat.
+
+![denegado](https://user-images.githubusercontent.com/78366593/109042908-02abfb80-76d1-11eb-9c2c-ca8ec506b46c.png)
+
+d. Gestiona bien los conflictos que puedan surgir.
+
+# Tarea 6. Resolución de conflictos en Git y Github.
