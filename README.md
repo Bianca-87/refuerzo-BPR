@@ -218,5 +218,4 @@ c. Rechaza alguna petición que hayas tenido un chat.
 ![denegado](https://user-images.githubusercontent.com/78366593/109042908-02abfb80-76d1-11eb-9c2c-ca8ec506b46c.png)
 
 d. Gestiona bien los conflictos que puedan surgir.
-
-# Tarea 6. Resolución de conflictos en Git y Github.
+Con las modificaciones no ha surgido ningun conflicto.
